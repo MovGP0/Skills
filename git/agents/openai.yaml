@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git"
+  short_description: "Use local Git workflows and command references"
+  default_prompt: "Help me with a Git task using my local Git notes."
