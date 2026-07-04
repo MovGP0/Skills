@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rust Object Design"
+  short_description: "Model rich Rust domain objects"
+  default_prompt: "Use $rust-object-design to model expressive Rust domain objects with strong invariants."
